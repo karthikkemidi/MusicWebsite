@@ -77,9 +77,4 @@ Spotify-Clone/
 * Audio samples used are for demo purposes only
 
 
-```
 
----
-
-Let me know if you'd like to add screenshot links, contributor sections, or convert this to a portfolio-style markdown!
-```
