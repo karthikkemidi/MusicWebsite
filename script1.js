@@ -15,11 +15,11 @@ let songs = [
     {songName: "Ye Mantramo (From Andala Rakshashi)", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
     {songName: "Evarevaro - Animal", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
     {songName: "Dum Masala (From Guntur Kaaram)", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
-    {songName: "Animal: ARBAR'S ENTRY - Jamal Kudu", filePath: "songs/2.mp3", coverPath: "covers/6.jpg"},
-    {songName: "Kallolam (From Padi Padi Leche Manasu)", filePath: "songs/2.mp3", coverPath: "covers/7.jpg"},
-    {songName: "Kalapakkaara - KOK", filePath: "songs/2.mp3", coverPath: "covers/8.jpg"},
-    {songName: "Khairayat (From Chhichore)", filePath: "songs/2.mp3", coverPath: "covers/9.jpg"},
-    {songName: "Suttamala Soosi (Gangs of Godavari)", filePath: "songs/4.mp3", coverPath: "covers/10.jpg"},
+    {songName: "Animal: ARBAR'S ENTRY - Jamal Kudu", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
+    {songName: "Kallolam (From Padi Padi Leche Manasu)", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
+    {songName: "Kalapakkaara - KOK", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
+    {songName: "Khairayat (From Chhichore)", filePath: "songs/9.mp3", coverPath: "covers/9.jpg"},
+    {songName: "Suttamala Soosi (Gangs of Godavari)", filePath: "songs/10.mp3", coverPath: "covers/10.jpg"},
 ]
 
 songItems.forEach((element, i)=>{ 
